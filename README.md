@@ -28,4 +28,3 @@ python wifi_login.py
 
 Check out how it looks below!
 
-![screenshot](https://user-images.githubusercontent.com/12345678/yourimage.png)
