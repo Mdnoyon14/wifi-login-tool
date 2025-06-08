@@ -1,7 +1,19 @@
-install termux ☺️
+---
 
-1 pkg install git -y
+## 🚀 How to Get Started
 
-2 pkg install python -y
+```bash
+🔹 Clone Repo:  
+git clone https://github.com/yourusername/wifi-login-tool.git
 
-3 pip install requests -y
+🔹 Go to Folder:  
+cd wifi-login-tool
+
+🔹 Install Python:  
+pkg install python
+
+🔹 Install Dependencies:  
+pip install requests
+
+🔹 Run the Script:  
+python wifi_login.py
