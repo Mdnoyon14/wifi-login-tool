@@ -9,6 +9,7 @@
 ## 🚀 How to Get Started
 
 ```bash
+🔹pkg install git
 🔹 Clone Repo:  
 git clone https://github.com/Mdnoyon14/wifi-login-tool.git
 
