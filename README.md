@@ -26,5 +26,4 @@ python wifi_login.py
 
 ## 🛠️ My Awesome Tool
 
-![screenshot](Screenshot_20250608_140058.jpg)
-
+![screenshot](https://raw.githubusercontent.com/username/repo-name/main/Screenshot_20250608_140058.jpg)
