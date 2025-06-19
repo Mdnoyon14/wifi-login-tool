@@ -23,6 +23,6 @@ pkg install python
 pip install requests
 
 🔹 Run the Script:  
-python wifi_login.py
+python wifi_brute.py
 
 
