@@ -1,8 +1,0 @@
-admin
-Admin
-root
-user
-guest
-support
-test
-administrator
